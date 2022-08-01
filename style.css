@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(cornflowerblue, lime);
+}
+
+#spanscore{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: left 50px; ;
+}
+
+#spantimer{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+    margin: right -50px;
+}
+
+p{
+    font-size: 30px;
+}
+#sketchtobedrawnp{
+    color: rgb(214, 214, 214);
+}
